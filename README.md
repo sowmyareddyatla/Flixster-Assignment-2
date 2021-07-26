@@ -29,7 +29,7 @@ Collection view part was quite challenging for me
 - [x ] (3pts) User can view the movie poster image for each movie.
 
 
-
+https://github.com/sowmyareddyatla/Unit1-assignment-codepath/blob/main/images/MovieFlix.gif
 
 
 
