@@ -37,7 +37,6 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthrough GIF
 
-<img src= images/Flixster_walkthrough2.gif />
 
 
 ### Notes
